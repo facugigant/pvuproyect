@@ -1,0 +1,40 @@
+.cards {
+  color: white;
+  text-align: center;
+  margin: auto auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+.card-1 {
+  width: 400px;
+  border-radius: 5vw;
+  border: solid 2px white;
+}
+.card-2 {
+  width: 400px;
+  border-radius: 5vw;
+  border: solid 2px white;
+}
+.card-3 {
+  width: 400px;
+  border-radius: 5vw;
+  border: solid 2px white;
+}
+.card-header {
+  color: blue;
+}
+.card-body {
+  height: 200px;
+}
+.card-body h5 {
+  color: yellow;
+  padding: 15px;
+}
+.card-footer {
+}
+
+.info {
+  margin: auto auto;
+  width: 80%;
+  color: white;
+}

@@ -1,0 +1,29 @@
+body {
+  background: black;
+}
+.t1 {
+  text-align: center;
+  color: white;
+  margin-top: 46px;
+}
+.t1 p {
+  margin: auto;
+  width: 400px;
+}
+.card-box {
+  margin-top: 88px;
+  color: white;
+}
+
+.card {
+  background: black;
+  height: 200px;
+}
+
+.card p {
+  margin-top: 25px;
+  text-align: center;
+}
+.card h5 {
+  text-align: center;
+}
